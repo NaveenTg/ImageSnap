@@ -1,3 +1,2 @@
 # ImageSnap
-
-A description of this package.
+Image Crop and Rotate Tool
